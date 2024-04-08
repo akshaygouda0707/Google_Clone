@@ -1,6 +1,6 @@
 # Google_Clone
-This is just a google interface clone just done with using HTML and CSS functionalities
-Topics Learn't:
+#This is just a google interface clone just done with using HTML and CSS functionalities
+#Topics Learn't:
 Margin top
 Divs rule the world
 CSS classes
