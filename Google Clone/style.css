@@ -1,0 +1,44 @@
+
+.main{
+    margin-top: 200px;
+}
+
+img{
+    width: 300px;
+    cursor: pointer;
+    display: block;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px;
+}
+
+input{
+    width: 550px;
+    display: block;
+    margin-bottom: 25px;
+    height: 40px; 
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+    border-radius: 15px;
+    border: 1px solid #dfe1e5;
+   
+}
+
+.btn-wrapper{
+display: flex;
+justify-content: center;
+}
+button{
+   height: 40px;
+   width: 120px;
+   padding: 2px;
+   background-color: rgb(237, 237, 237);
+   border: none;
+   border-radius: 10px;
+   font-weight: 50px;
+   color: rgb(44, 44, 44);
+   margin-right: 10px;
+   
+}
